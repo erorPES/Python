@@ -1,0 +1,254 @@
+{
+  "Coffe" : [
+   {
+      "ml": 300,
+      "type": "Cappuccino",
+      "amount": 4
+    },
+    {
+      "ml": 250,
+      "type": "Rommano",
+      "amount": 2
+    },
+    {
+      "ml": 400,
+      "type": "Latte",
+      "amount": 1
+    },
+     {
+      "ml": 150,
+      "type": "Espresso",
+      "amount": 3
+    },
+    {
+      "ml": 350,
+      "type": "Latte",
+      "amount": 2
+    },
+   {
+      "ml": 400,
+      "type": "Glace",
+      "amount": 4
+    },
+    {
+      "ml": 250,
+      "type": "Latte",
+      "amount": 3
+    },
+     {
+      "ml": 150,
+      "type": "Espresso",
+      "amount": 2
+    },
+    {
+      "ml": 250,
+      "type": "Espresso",
+      "amount": 2
+    },
+     {
+      "ml": 150,
+      "type": "Espresso",
+      "amount": 1
+    },
+     {
+      "ml": 150,
+      "type": "Espresso",
+      "amount": 5
+    },
+   {
+      "ml": 400,
+      "type": "Glace",
+      "amount": 3
+    },
+    {
+      "ml": 150,
+      "type": "Espresso",
+      "amount": 3
+    },
+     {
+      "ml": 150,
+      "type": "Ritretto",
+      "amount": 3
+    },
+     {
+      "ml": 150,
+      "type": "Espresso",
+      "amount": 3
+    },
+   {
+      "ml": 400,
+      "type": "Glace",
+      "amount": 4
+    },
+    {
+      "ml": 150,
+      "type": "Lungo",
+      "amount": 1
+    },
+     {
+      "ml": 400,
+      "type": "Lungo",
+      "amount": 2
+    },
+    {
+      "ml": 150,
+      "type": "Espresso",
+      "amount": 1
+    },
+    {
+      "ml": 150,
+      "type": "Espresso",
+      "amount": 1
+    },
+   {
+      "ml": 400,
+      "type": "Glace",
+      "amount": 3
+    },
+    {
+      "ml": 150,
+      "type": "Espresso",
+      "amount": 3
+    },
+    {
+      "ml": 250,
+      "type": "Mocha",
+      "amount": 2
+    },
+    {
+      "ml": 150,
+      "type": "Lungo",
+      "amount": 3
+    },
+    {
+      "ml": 350,
+      "type": "Latte",
+      "amount": 4
+    },
+   {
+      "ml": 150,
+      "type": "Espresso",
+      "amount": 7
+    },
+    {
+      "ml": 350,
+      "type": "Romano",
+      "amount": 1
+    },
+    {
+      "ml": 400,
+      "type": "Glace",
+      "amount": 3
+    },
+     {
+      "ml": 250,
+      "type": "Glace",
+      "amount": 4
+    },
+    {
+      "ml": 200,
+      "type": "Ritretto",
+      "amount": 1
+    },
+    {
+      "ml": 250,
+      "type": "Latte",
+      "amount": 4
+    },
+     {
+      "ml": 150,
+      "type": "Espresso",
+      "amount": 3
+    },
+    {
+      "ml": 150,
+      "type": "Doppio",
+      "amount": 3
+    },
+    {
+      "ml": 250,
+      "type": "Espresso",
+      "amount": 2
+    },
+    {
+      "ml": 250,
+      "type": "Doppio",
+      "amount": 5
+    },
+    {
+      "ml": 150,
+      "type": "Micchiato",
+      "amount": 6
+    },
+    {
+      "ml": 150,
+      "type": "Cappuccino",
+      "amount": 3
+    },
+    {
+      "ml": 150,
+      "type": "Espresso",
+      "amount": 3
+    },
+    {
+      "ml": 150,
+      "type": "Mocha",
+      "amount": 3
+    },
+    {
+      "ml": 150,
+      "type": "Lungo",
+      "amount": 3
+    },
+    {
+      "ml": 350,
+      "type": "Irish",
+      "amount": 1
+    },
+    {
+      "ml": 350,
+      "type": "Latte",
+      "amount": 3
+    },
+    {
+      "ml": 150,
+      "type": "Ritretto",
+      "amount": 2
+    },
+    {
+      "ml": 150,
+      "type": "Tripplo",
+      "amount": 3
+    },
+    {
+      "ml": 150,
+      "type": "Espresso",
+      "amount": 3
+    },
+    {
+      "ml": 150,
+      "type": "Espresso",
+      "amount": 3
+    },
+    {
+      "ml": 250,
+      "type": "Mocha",
+      "amount": 5
+    },
+    {
+      "ml": 300,
+      "type": "Cappuccino",
+      "amount": 4
+    },
+    {
+      "ml": 250,
+      "type": "Rommano",
+      "amount": 2
+    },
+    {
+      "ml": 400,
+      "type": "Latte",
+      "amount": 1
+    }
+  ]
+}
